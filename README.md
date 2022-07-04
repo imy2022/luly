@@ -1,3 +1,3 @@
 # luly
 
-Hello wold~
+hello world~
